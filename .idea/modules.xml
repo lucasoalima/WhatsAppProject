@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/WhatsAppProject.iml" filepath="$PROJECT_DIR$/.idea/WhatsAppProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Whatsapp.iml" filepath="$PROJECT_DIR$/.idea/modules/Whatsapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Whatsapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Whatsapp.app.iml" />
     </modules>
   </component>
 </project>
